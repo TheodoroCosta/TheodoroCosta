@@ -2,7 +2,7 @@
 
 :octocat: Futuro Desenvolvedor Full-Stack.
 
-🇧🇷Fortaleza - CE, Brasil. 
+🇧🇷 Fortaleza - CE, Brasil. 
   
 
 

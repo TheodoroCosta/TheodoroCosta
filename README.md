@@ -1,6 +1,6 @@
 ## ☕Olá! Me Chamo Theodoro Costa.
 
-👾Futuro Desenvolvedor Full-Stack.
+:octocat: Futuro Desenvolvedor Full-Stack.
 
 🇧🇷Fortaleza - CE, Brasil. 
   
@@ -13,4 +13,3 @@
 <a href="https://api.whatsapp.com/send?phone=5585981555156&text=Theodoro%20Costa%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
  ![Cyberpunk Hacker GIF - Cyberpunk Hacker - Discover   Share GIFs](https://user-images.githubusercontent.com/112489125/188294337-aeae8372-ac8f-42e3-bdf6-57acaacc2a38.gif)
-
